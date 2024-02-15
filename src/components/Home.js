@@ -1,4 +1,3 @@
-//Project done by Caroline Nyamupanda
 //github CarolineNyam
 import React from 'react'
 import styled from 'styled-components'
