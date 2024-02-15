@@ -1,3 +1,5 @@
+//Project done by Caroline Nyamupanda
+//github CarolineNyam
 import { createSlice } from "@reduxjs/toolkit"
 
 const initialState = {
