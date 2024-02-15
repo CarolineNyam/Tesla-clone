@@ -11,7 +11,6 @@
             <h1>{ title }</h1>
             <p>{description}</p>
         </ItemTexrt>
-
         </Fade>
           <Buttons>
             <Fade bottom>
